@@ -1,0 +1,1 @@
+$('#footer-section').delay(1000).slideDown();

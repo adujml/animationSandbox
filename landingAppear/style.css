@@ -1,0 +1,7 @@
+#footer-section {
+	display: none;
+	background: red;
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+}
